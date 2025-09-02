@@ -1,17 +1,17 @@
----Journal---
-https://www.ias.ac.in/listing/issues/reso , Resonance Journal
-
----MMTTC---
-https://mmc.ugc.ac.in/RFSEvent/Index?t=4 , Refresher Course
-https://mmc.ugc.ac.in/RFSEvent/Index?t=5 , Short term Course
-https://mmc.ugc.ac.in/RFSEvent/Index?t=9 , Capacity Building Course
-
 ---AIR---
 https://www.newsonair.gov.in/special-programs/ , Special Programs
 https://www.newsonair.gov.in/listen-broadcast-category/daily-broadcast/, Daily Broadcast
 https://www.newsonair.gov.in/listen-broadcast-category/weekly-broadcast/ , Weekly Broadcast
 https://www.newsonair.gov.in/?s=ranchi&date_from=&date_to=&post_type= , Ranchi News
 
+
+---MMTTC---
+https://mmc.ugc.ac.in/RFSEvent/Index?t=4 , Refresher Course
+https://mmc.ugc.ac.in/RFSEvent/Index?t=5 , Short term Course
+https://mmc.ugc.ac.in/RFSEvent/Index?t=9 , Capacity Building Course
+
+---Journal---
+https://www.ias.ac.in/listing/issues/reso , Resonance Journal
 
 ---Central University Recruitment---
 https://curec.samarth.ac.in/index.php/search/site/advertisement, Central University Recruitment
