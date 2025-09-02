@@ -31,12 +31,10 @@ fetch('{{ site.baseurl }}/assets/data/url.txt')
 
         container.appendChild(section);
       } else if (section && line.startsWith('http')) {
-        const parts = line.split(',');
-        const url = parts[0].trim();
-        const label = parts[1] ? parts[1].trim() : new URL(url).hostname.replace('www.', '');
-
+        const url = line.trim();
+        const hostname = new URL(url).hostname.replace('www.', '');
         const btn = document.createElement('button');
-        btn.textContent = label;
+        btn.textContent = hostname;
         btn.className = 'news-button';
         btn.onclick = () => window.open(url, '_blank');
 
