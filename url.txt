@@ -21,6 +21,7 @@ https://www.newsonair.gov.in/?s=ranchi&date_from=&date_to=&post_type= , Ranchi N
 
 ---MMTTC---
 https://mmc.ugc.ac.in/Home/DefaultPage
+https://mmc.ugc.ac.in/S/MMTTP_Guidelines.pdf, Guidelines
 
 ---Journal---
 https://www.ias.ac.in/listing/issues/reso , Resonance Journal
