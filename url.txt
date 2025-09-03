@@ -1,5 +1,12 @@
----Weather---
-https://city.imd.gov.in/citywx/responsive/?id=42599 , CITY
+
+---Important---
+https://egazette.jharkhand.gov.in/Gazette.aspx , Jharkhand Gazette
+https://dst.gov.in/ , DST
+https://www.indiascienceandtechnology.gov.in/ , Indian Science Tech & Innovation Portal
+https://city.imd.gov.in/citywx/responsive/?id=42599 , Dumka Weather
+https://www.newsonair.gov.in/?s=ranchi&date_from=&date_to=&post_type= , Ranchi News
+
+
 
 ---INDIA LINKS---
 https://www.pib.gov.in/indexm.aspx , PIB
@@ -17,7 +24,6 @@ https://www.newsonair.gov.in/listen-broadcast-category/weekly-broadcast/ , Weekl
 https://www.newsonair.gov.in/category/science-and-technologies/ , Science & Technology
 https://www.newsonair.gov.in/category/business/ , Business
 https://www.newsonair.gov.in/most-read/ , Most Read News
-https://www.newsonair.gov.in/?s=ranchi&date_from=&date_to=&post_type= , Ranchi News
 
 
 
@@ -30,6 +36,7 @@ https://www.ias.ac.in/listing/issues/reso , Resonance Journal
 
 ---Central University Recruitment---
 https://curec.samarth.ac.in/index.php/search/site/advertisement, Central University Recruitment
+
 
 ---Jharkhand---
 https://jharkhandstatenews.com
