@@ -7,7 +7,7 @@ title: Free Press Segmented
 <div id="button-sections" style="padding: 1rem;"></div>
 
 <script>
-fetch('{{ site.baseurl }}/assets/data/url.txt')
+fetch('{{ site.baseurl }}/url.txt')
   .then(response => response.text())
   .then(data => {
     const lines = data.trim().split('\n');
