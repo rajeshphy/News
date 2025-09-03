@@ -1,3 +1,5 @@
+---Weather---
+https://city.imd.gov.in/citywx/responsive/?id=42599 , CITY
 
 ---INDIA LINKS---
 https://www.pib.gov.in/indexm.aspx , PIB
