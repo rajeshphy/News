@@ -3,6 +3,9 @@
 https://city.imd.gov.in/citywx/responsive/?id=42599 , Dumka Weather
 https://www.newsonair.gov.in/?s=ranchi&date_from=&date_to=&post_type= , Ranchi News
 https://www.newsonair.gov.in/listen-broadcast-category/daily-broadcast/, Daily Broadcast
+https://www.india.gov.in/calendar?a=1756835204556, Holiday Calendar
+https://rajeshphy.github.io/Aca/RECORDS/05_SKMU_Notification/A._Important/2025-Holiday-List.pdf, SKMU Holiday
+
 
 
 ---AIR Radio---
@@ -11,6 +14,13 @@ https://www.newsonair.gov.in/listen-broadcast-category/weekly-broadcast/ , Weekl
 https://www.newsonair.gov.in/category/science-and-technologies/ , Science & Technology
 https://www.newsonair.gov.in/category/business/ , Business
 https://www.newsonair.gov.in/most-read/ , Most Read News
+
+
+
+---MMTTC---
+https://www.indiascienceandtechnology.gov.in/conferences-and-seminars/conference, Conference
+https://mmc.ugc.ac.in/Home/DefaultPage
+https://mmc.ugc.ac.in/S/MMTTP_Guidelines.pdf, Guidelines
 
 
 ---Important LINKS---
@@ -22,14 +32,8 @@ https://www.pib.gov.in/PMContents/PMContents.aspx?menuid=1&Lang=1&RegionId=3&reg
 https://www.india.gov.in/, National Portal
 https://webcast.gov.in/ , Video Portal
 https://www.mygov.in/ , Participate
-https://www.india.gov.in/calendar?a=1756835204556, Holiday Calendar
-https://rajeshphy.github.io/Aca/RECORDS/05_SKMU_Notification/A._Important/2025-Holiday-List.pdf, SKMU Holiday
 
 
-
----MMTTC---
-https://mmc.ugc.ac.in/Home/DefaultPage
-https://mmc.ugc.ac.in/S/MMTTP_Guidelines.pdf, Guidelines
 
 ---Journal---
 https://www.ias.ac.in/listing/issues/reso , Resonance Journal
