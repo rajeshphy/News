@@ -19,8 +19,20 @@ https://www.newsonair.gov.in/most-read/ , Most Read News
 ---IGNOU---
 https://www.ignou.ac.in/announcements/0?nav=6, Announcement
 https://ignou.samarth.edu.in/index.php/site/login, Students Login
-https://webservices.ignou.ac.in/Pre-Question/, Question Paper
 https://webservices.ignou.ac.in/assignments/Master-Degree/MSW/MSW.HTM, Assignments
+
+
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202024/SOSW/SOSWFINAL.htm, Question-Jun-24
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20December%202023/SOSW/SOSWFINAL.htm, Question-Dec-23
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202023/SOSW/SOSWFINAL.htm,  Question-Jun-23
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20December%202022/SOSW/SOSWFINAL.htm, Question-Dec-22
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202022/SOSW/SOSWFINAL.htm, Question-Jun-22
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20December%202021/SOSW/SOSW.HTM, 
+Question-Dec-21
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202020/SOSW/sosw.htm#sosw3, Question-Jun-19
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20December%202019/SOSW/sosw.htm#sosw3, Question-Dec-19
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202019/SOSW/sosw.htm#sosw3, 
+Question-Jun-19
 
 
 
