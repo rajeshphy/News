@@ -16,6 +16,13 @@ https://www.newsonair.gov.in/category/business/ , Business
 https://www.newsonair.gov.in/most-read/ , Most Read News
 
 
+---IGNOU---
+https://www.ignou.ac.in/announcements/0?nav=6, Announcement
+https://ignou.samarth.edu.in/index.php/site/login, Students Login
+https://webservices.ignou.ac.in/Pre-Question/, Question Paper
+https://webservices.ignou.ac.in/assignments/Master-Degree/MSW/MSW.HTM, Assignments
+
+
 
 ---MMTTC---
 https://www.indiascienceandtechnology.gov.in/conferences-and-seminars/conference, Conference
