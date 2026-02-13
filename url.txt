@@ -21,19 +21,19 @@ https://www.newsonair.gov.in/most-read/ , Most Read News
 https://www.ignou.ac.in/announcements/0?nav=6, Announcement
 https://ignou.samarth.edu.in/index.php/site/login, Students Login
 https://rajeshphy.github.io/Aca/RECORDS/01_Degrees/Akansha/2025-Oct-Z-AAPAR-Details.pdf, Hidden-Password
-https://webservices.ignou.ac.in/assignments/Master-Degree/MSW/MSW.HTM, Assignments
+https://webservices.ignou.ac.in/assignments/Master-Degree/MSW/MSW.HTM, MSW-Assignments
+https://webservices.ignou.ac.in/assignments/Bachelor-Degree/Bachelor.htm, BCA-Assignment
+
+https://webservices.ignou.ac.in/Pre-Question/, Pre-Questions
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202024/SOSW/SOSWFINAL.htm, MSW-Q-Jun-24
+
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20December%202023/SOSW/SOSWFINAL.htm, MSW-Q-Dec-23
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202023/SOSW/SOSWFINAL.htm, MSW-Q-Jun-23
+
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20December%202022/SOSW/SOSWFINAL.htm, MSW-Q-Dec-22
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202022/SOSW/SOSWFINAL.htm, MSW-Q-Jun-22
 
 
-
-https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202024/SOSW/SOSWFINAL.htm, Q-Jun-24
-
-https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20December%202023/SOSW/SOSWFINAL.htm, Q-Dec-23
-https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202023/SOSW/SOSWFINAL.htm, Q-Jun-23
-
-https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20December%202022/SOSW/SOSWFINAL.htm, Q-Dec-22
-https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202022/SOSW/SOSWFINAL.htm, Q-Jun-22
-
-https://webservices.ignou.ac.in/Pre-Question/, Q-OLD
 
 
 ---MMTTC---
