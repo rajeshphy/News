@@ -20,7 +20,7 @@ https://www.newsonair.gov.in/most-read/ , Most Read News
 
 https://www.ignou.ac.in/announcements/0?nav=6, Announcement
 https://ignou.samarth.edu.in/index.php/site/login, Students Login
-https://rajeshphy.github.io/Aca/RECORDS/01_Degrees/Akansha/2025-Oct-Z-AAPAR-Details.pdf, Hidden-Password
+https://rajeshphy.github.io/Aca/RECORDS/01_Degrees/Akansha/2025-Oct-Z-AAPAR-Details.pdf, Akansha-Hidden-Password
 https://webservices.ignou.ac.in/assignments/Master-Degree/MSW/MSW.HTM, MSW-Assignments
 https://webservices.ignou.ac.in/assignments/Bachelor-Degree/Bachelor.htm, BCA-Assignment
 
